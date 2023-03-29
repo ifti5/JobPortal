@@ -1,0 +1,17 @@
+.navbar-brand{
+    background-color: royalblue;
+    border-radius: 20px;
+    font-family:fantasy;
+}
+#navbarText{
+    font-size: 80%;
+}
+
+ul li a:hover {
+    transform: scale(1.1);
+    text-decoration: underline;
+   font-size: 110%;
+    /* text-underline-position: below; */
+   
+
+  }
